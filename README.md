@@ -19,7 +19,7 @@
 </p>
 
 -  I’m currently working on **Microservices & Backend APIs**
--  I’m learning **Go, and React NOW **
+-  I’m learning ** Go **
 
 ---
 
