@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufiq</h1>
-<h3 align="center">🚀 Backend Developer | Microservices Enthusiast</h3>
+<h3 align="center">🚀 Backend Developer | Microservices Enthusiast | Frontend (learn) </h3>
 
 ---
 
@@ -13,17 +13,17 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding animation"/>
 </p>
 
-- 🔭 I’m currently working on **Microservices & Backend APIs**
-- 🌱 I’m learning **Go, and React **
+-  I’m currently working on **Microservices & Backend APIs**
+-  I’m learning **Go, and React NOW **
 
 ---
 
-### ✍️ Random Dev Quote
+###  Random Dev Quote
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=900&lines=🔥+If+the+code+doesn’t+work,+just+comment+it.;😂+A+bug+is+not+a+bug,+it’s+a+feature.;💻+There’s+no+place+like+127.0.0.1.;⚡+Programming:+10%25+coding,+90%25+debugging.;🚀+Code+never+lies,+comments+sometimes+do." alt="Funny Coding Quotes" />
 </p>
