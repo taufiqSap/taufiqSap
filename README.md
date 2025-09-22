@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufiq</h1>
-<h3 align="center">🚀 A passionate developer who loves to build backend systems & microservices</h3>
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/username" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:yourmail@example.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+<h3 align="center">🚀 Backend Developer | Microservices Enthusiast</h3>
 
 ---
 
@@ -25,18 +13,14 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 👨‍💻 About Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" alt="streak" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="coding animation"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
-</p>
+- 🔭 I’m currently working on **Microservices & Backend APIs**
+- 🌱 I’m learning **Go, Kubernetes, and Cloud Deployment**
+- ⚡ Fun fact: I love solving real-world problems with code
 
 ---
 
