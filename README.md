@@ -19,15 +19,15 @@
 </p>
 
 - 🔭 I’m currently working on **Microservices & Backend APIs**
-- 🌱 I’m learning **Go, Kubernetes, and Cloud Deployment**
-- ⚡ Fun fact: I love solving real-world problems with code
+- 🌱 I’m learning **Go, and React **
 
 ---
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=900&lines=🔥+If+the+code+doesn’t+work,+just+comment+it.;😂+A+bug+is+not+a+bug,+it’s+a+feature.;💻+There’s+no+place+like+127.0.0.1.;⚡+Programming:+10%25+coding,+90%25+debugging.;🚀+Code+never+lies,+comments+sometimes+do." alt="Funny Coding Quotes" />
 </p>
+
 
 ---
 
