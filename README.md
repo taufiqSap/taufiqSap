@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufiq</h1>
-<h3 align="center">🚀 Backend Developer | Microservices Enthusiast | Frontend (learn) </h3>
+<h3 align="center">🚀 Laravel Developer | Always Exploring New Things | Currently in backend | Frontend(learn)</h3>
 
 ---
 
